@@ -59,4 +59,5 @@ References
 ---
 
 [https://www.terraform.io/](https://www.terraform.io/)
+
 [https://docs.mongodb.com/v3.2/tutorial/expand-replica-set/](https://docs.mongodb.com/v3.2/tutorial/expand-replica-set/)
