@@ -1,0 +1,5 @@
+/mongo/.terraform/**
+/mongo/.terraform.tfstate.lock.info
+/mongo/*.backup
+/mongo/*.tfstate
+/mongo/*.swp
