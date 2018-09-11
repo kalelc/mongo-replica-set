@@ -33,7 +33,6 @@ For this case, it was configurated 3 instances.
       cfg.members.forEach( function(member) {
           member.votes = 1;
           member.priority = 1;
-        )
       });
       rs.reconfig(cfg);
       ```
